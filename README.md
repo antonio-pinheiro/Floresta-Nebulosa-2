@@ -23,12 +23,6 @@ Descompacte o arquivo e execute floresta.x86_64
 
 Descompacte o arquivo e execute Floresta.exe
 
-<h5>EXECUÇÃO EM ANDROID</h5>
-
-Descompacte o arquivo e instale o APK
-
-<h5>IMAGENS DO PROJETO</h5>
-
 <p align="center">
   <img src="/readme_screenshots/screen1.png" width="350" title="Floresta 2">
   <img src="/readme_screenshots/screen2.png" width="350" height="197" title="Floresta 2">
